@@ -1,0 +1,4 @@
+{
+    "python.venvPath": ".venv",
+    "vetur.format.defaultFormatter.js": "prettier-eslint"
+}
